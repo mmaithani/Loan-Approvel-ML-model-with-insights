@@ -70,8 +70,8 @@ Start rocking
 
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
-<img align="right" width="200" src="assets/giphy.gif" alt="guy" />
-<img align="left" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="left" width="200" src="assets/giphy.gif" alt="guy" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
@@ -169,5 +169,5 @@ will add interface where i can use the public prediction api
 
 These contribution guidelines have been learned from [this good-Contributing.md-template](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
 
-Also special thanks : elizabethets <img width="10" src="assets/mona-whisper.gif" alt="kitty" />
+Also special thanks : elizabethets <img width="40" src="assets/mona-whisper.gif" alt="kitty" />
 
