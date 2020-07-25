@@ -65,6 +65,8 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 git clone https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights.git 
 ```
 Start rocking
+<<img align="right" width="200" src="assets/giphy.gif" alt="guy" />
+
 
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
@@ -166,6 +168,5 @@ will add interface where i can use the public prediction api
 
 These contribution guidelines have been learned from [this good-Contributing.md-template](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
 
-Also special thanks : elizabethets ![kitty](/assets/giphy.gif)
+Also special thanks : elizabethets ![kitty](/assets/mona-whisper.gif)
 
-<img src="assets/giphy.gif" alt="kitty" />
