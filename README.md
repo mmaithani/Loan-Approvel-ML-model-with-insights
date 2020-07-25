@@ -1,10 +1,10 @@
-# Loan Approval
+# Loan Approval Predictor
 
-[![CI](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/workflows/CI/badge.svg)()
-[![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)(https://twitter.com/xaret_)
+![CI](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/workflows/CI/badge.svg)
+[![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)](https://twitter.com/xaret_)
 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
 [![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/mmaithani/)
-![](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)
+[![git](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)(https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/)
 
 ## 1️⃣ Description
 
