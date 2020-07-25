@@ -1,12 +1,11 @@
 # Loan Approval
 
 ![Python Version](https://img.shields.io/badge/python-v3.7-blue)
-
 ![CI](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/workflows/CI/badge.svg)
-
 ![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)
-![](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)
 ![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)
+
+![](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)
 
 ## 1️⃣ Description
 
