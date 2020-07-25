@@ -8,14 +8,14 @@
 
 [![git](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/)
 
-## 1️⃣ Description
+## 1️⃣🄋  Description
 
 Loan approval is a very important process for banking organizations. The system approved or reject the loan applications.
 Recovery of loans is a major contributing parameter in the financial statements of a bank. It is very difficult to predict the possibility of payment of loan by the customer.
 In recent years many researchers worked on loan approval prediction systems. Machine Learning (ML)techniques are very useful in predicting outcomes for large amount of data.
 
-## 2️⃣ Key Features
-
+## 2️⃣ Key Features➀ ➁ ➂ ➃ ➄ ➅ 
+➀ ➁ ➂ ➃ ➄ ➅ 
 - data insights withhin <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/Loan%20application%20-approval%20insights%20.ipynb">Jupyter Notebook</a>
 - Trained <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/modell.pkl"> Model </a>
 - Public <a href="https://dashboard.heroku.com/apps/loan5/deploy/github"> api </a>
