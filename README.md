@@ -52,7 +52,6 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 ![Python Version](https://img.shields.io/badge/python-v3.7-blue)
 
 ---
-
 ##  ➄ Credit
 
 [<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)    [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)    [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/xaret_)    **[Mohit Maithani](https://mmaithani.github.io)**    |  Tech enthusiast (Data Science)
@@ -60,7 +59,6 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 - public api deployment 
 [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/elizabethets)
 ---
-
 ## ➅ Contributing
 
 ```sh
@@ -73,7 +71,7 @@ Start rocking
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-<img align="left" width="100" src="assets/giphy.gif" alt="guy" />
+<img align="right" width="200" src="assets/giphy.gif" alt="guy" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
@@ -162,7 +160,7 @@ Now submit the pull request.
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
-
+---
 ### Next Version
 
 will add interface where i can use the public prediction api
@@ -171,5 +169,5 @@ will add interface where i can use the public prediction api
 
 These contribution guidelines have been learned from [this good-Contributing.md-template](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
 
-Also special thanks : elizabethets ![kitty](/assets/mona-whisper.gif)
+Also special thanks : elizabethets <img width="10" src="assets/mona-whisper.gif" alt="kitty" />
 
