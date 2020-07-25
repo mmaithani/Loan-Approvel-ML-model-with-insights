@@ -71,7 +71,7 @@ Start rocking
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-<img align="left" width="180" src="assets/giphy.gif" alt="guy" />
+<img align="left" width="150" src="assets/giphy.gif" alt="guy" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
@@ -85,9 +85,6 @@ This will create a copy of this repository in your account.
 <img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
-
-
-
 Open a terminal and run the following git command:
 
 ```
