@@ -70,8 +70,8 @@ Start rocking
 
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 <img align="right" width="200" src="assets/giphy.gif" alt="guy" />
+<img align="left" width="300" src="assets/fork.png" alt="fork this repository" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
