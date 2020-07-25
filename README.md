@@ -51,6 +51,7 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 - Pandas, numpy
 ![Python Version](https://img.shields.io/badge/python-v3.7-blue)
 
+---
 
 ##  ➄ Credit
 
@@ -58,6 +59,7 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 
 - public api deployment 
 [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/elizabethets)
+---
 
 ## ➅ Contributing
 
@@ -65,6 +67,8 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 git clone https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights.git 
 ```
 Start rocking
+
+---
 
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
