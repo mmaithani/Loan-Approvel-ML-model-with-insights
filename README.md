@@ -67,11 +67,9 @@ git clone https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights.git
 Start rocking
 
 ---
-
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-<img align="left" width="150" src="assets/giphy.gif" alt="guy" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
@@ -159,6 +157,7 @@ Now submit the pull request.
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+<img align="left" width="50" src="assets/giphy.gif" alt="guy" />
 ---
 ### Next Version
 
