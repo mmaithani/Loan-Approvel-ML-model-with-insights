@@ -4,9 +4,9 @@
 
 ![CI](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/workflows/CI/badge.svg)
 
-https://img.shields.io/twitter/follow/xaret_?style=social
-https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge
-https://img.shields.io/github/followers/mmaithani?label=Follow&style=social
+![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)
+![](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)
+![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)
 
 ## 1️⃣ Description
 
