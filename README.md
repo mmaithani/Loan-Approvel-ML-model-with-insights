@@ -157,11 +157,15 @@ Now submit the pull request.
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
 ---
-<img align="left" width="40" src="assets/giphy.gif" alt="guy" />
+
 ### Next Version
 
-will add interface where i can use the public prediction api
+<img align="left" width="40" src="assets/giphy.gif" alt="guy" />
+will add interface
+
+where i can use the public prediction api
 
 ### Attribution
 
