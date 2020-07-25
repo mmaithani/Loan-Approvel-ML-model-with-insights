@@ -65,12 +65,11 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 git clone https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights.git 
 ```
 Start rocking
-<<img align="right" width="200" src="assets/giphy.gif" alt="guy" />
-
 
 # For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+<img align="left" width="100" src="assets/giphy.gif" alt="guy" />
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
