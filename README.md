@@ -8,7 +8,7 @@
 
 [![git](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/)
 
-## 🄋  Description
+## ➀ Description
 
 Loan approval is a very important process for banking organizations. The system approved or reject the loan applications.
 Recovery of loans is a major contributing parameter in the financial statements of a bank. It is very difficult to predict the possibility of payment of loan by the customer.
