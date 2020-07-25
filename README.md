@@ -165,7 +165,7 @@ will add interface where i can use the public prediction api
 ### Attribution
 
 These contribution guidelines have been learned from [this good-Contributing.md-template](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
-Also special thanks : 
-- elizabethets
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUA7aQOxkz00lvCAOQ"width="100%"height="100%"style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xUA7aQOxkz00lvCAOQ">via GIPHY</a></p>
+Also special thanks : elizabethets ![kitty](/assets/giphy.gif)
+
+<img src="assets/giphy.gif" alt="kitty" />
