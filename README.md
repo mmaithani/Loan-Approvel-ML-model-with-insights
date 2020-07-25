@@ -8,20 +8,20 @@
 
 [![git](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/)
 
-## 1️⃣🄋  Description
+## 🄋  Description
 
 Loan approval is a very important process for banking organizations. The system approved or reject the loan applications.
 Recovery of loans is a major contributing parameter in the financial statements of a bank. It is very difficult to predict the possibility of payment of loan by the customer.
 In recent years many researchers worked on loan approval prediction systems. Machine Learning (ML)techniques are very useful in predicting outcomes for large amount of data.
 
-## 2️⃣ Key Features➀ ➁ ➂ ➃ ➄ ➅ 
-➀ ➁ ➂ ➃ ➄ ➅ 
+## ➁ Key Features
+
 - data insights withhin <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/Loan%20application%20-approval%20insights%20.ipynb">Jupyter Notebook</a>
 - Trained <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/modell.pkl"> Model </a>
 - Public <a href="https://dashboard.heroku.com/apps/loan5/deploy/github"> api </a>
 - multiple machine learning algorithms. 
 
-## 3️⃣ Public Api usage
+## ➂ Public Api usage
 
 install Requests, 
 ```sh
@@ -43,7 +43,7 @@ you will get answer
 
 Now people can access API endpoint with the Heroku URL and use this model to make prediction 
 
-## 4️⃣ Tech Stack
+## ➃ Tech Stack
 
 - Heroku
 - Scikit-learn
@@ -52,14 +52,14 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 ![Python Version](https://img.shields.io/badge/python-v3.7-blue)
 
 
-## 5️⃣ Credit
+##  ➄ Credit
 
 [<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)    [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)    [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/xaret_)    **[Mohit Maithani](https://mmaithani.github.io)**    |  Tech enthusiast (Data Science)
 
 - public api deployment 
 [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/elizabethets)
 
-## 6️⃣ Contributing
+## ➅ Contributing
 
 ```sh
 git clone https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights.git 
