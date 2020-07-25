@@ -1,10 +1,9 @@
 # Loan Approval
 
-![Python Version](https://img.shields.io/badge/python-v3.7-blue)
-![CI](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/workflows/CI/badge.svg)
-![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)
-![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)
-
+[![CI](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/workflows/CI/badge.svg)((https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/workflows)
+[![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)(https://twitter.com/xaret_)
+[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
+[![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/mmaithani/)
 ![](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)
 
 ## 1️⃣ Description
@@ -37,10 +36,10 @@ data = json.dumps(data)
 print(send_request.json())
 
 ```
-- you will get answer
+you will get answer
 {'results': {'results': 1}}
 
-Now people can access API endpoint with the Heroku URL and use this model to make predictions in the real world 🌐
+Now people can access API endpoint with the Heroku URL and use this model to make prediction 
 
 ## 4️⃣ Tech Stack
 
@@ -48,6 +47,8 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 - Scikit-learn
 - Flask
 - Pandas, numpy
+![Python Version](https://img.shields.io/badge/python-v3.7-blue)
+
 
 ## 5️⃣ Credit
 
@@ -61,9 +62,9 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 ```sh
 git clone https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights.git 
 ```
-- start rocking
+Start rocking
 
-* For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
+# For beginner here is a full <a href="https://github.com/firstcontributions/first-contributions/blob/master/README.md"> tutorial :</a>
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
@@ -165,4 +166,4 @@ These contribution guidelines have been learned from [this good-Contributing.md-
 Also special thanks : 
 - elizabethets
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUA7aQOxkz00lvCAOQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xUA7aQOxkz00lvCAOQ">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xUA7aQOxkz00lvCAOQ"width="100%"height="100%"style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xUA7aQOxkz00lvCAOQ">via GIPHY</a></p>
