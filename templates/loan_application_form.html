@@ -2,23 +2,49 @@
 <!DOCTYPE html>
 <html >
 <head>
-  <meta charset="UTF-8">
-  <title>Deployment Tutorial 1</title>
-  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <header class="w3-container w3-teal">
+        <h1>Mohit Maithani</h1>
+
+<!-- Add font awesome icons -->
+<a href="www.twitter.com/xaret_" class="fa fa-twitter"></a>
+<a href="www.github.com/mmaithani" class="fa fa-github"></a>
+<form action="./">
+    <input type="submit" value="Go to Home" />
+</form>
+</header>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+<title>Loan prediction UI -Mohit Maithani</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('templates\bg.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+</style>
 
-<body style="background: #000;">
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+    <div class="w3-display-middle">
+<!-- <body style="background: #85929E;"> -->
+    
 <div class="form1">
-    <form action="./">
-        <input type="submit" value="Go to Home" />
-    </form>
-
-<h3>Loan apporval Prediction Form </h3>
+<h1>Loan approval Prediction Form </h1><br>
 <!-- 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed','Credit_History','Property_Area', 'Income' -->
     <form action="{{ url_for('prediction')}}" method="post" id="loan_predict">
         <label for="Gender">Gender</label>
@@ -75,12 +101,13 @@
         <br><br>
     <!-- <input type="submit" value="Predict">  -->
     <button type="submit" class="btn btn-primary btn-block btn-large">Predict </button>
-    </form>
+    <h1> {{ prediction }}</h1>     
+</form>
 
-    <br><br>
     <!-- Result presentation goes here -->
-    <h1> {{ prediction }}</h1> 
+
 </div> 
+</div>
 </body>
 </html>
 

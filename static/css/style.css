@@ -9,33 +9,19 @@
 .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] { filter: none; background-color: #4a77d4; }
 .btn-block { width: 100%; display:block; }
 
-* { -webkit-box-sizing:border-box; -moz-box-sizing:border-box; -ms-box-sizing:border-box; -o-box-sizing:border-box; box-sizing:border-box; }
 
-html { width: 100%; height:100%; overflow:hidden; }
-
-body { 
-	width: 100%;
-	height:100%;
-	font-family: 'Helvetica';
-	background: #000;
-	color: #fff;
-	font-size: 24px;
-	text-align:center;
-	letter-spacing:1.4px;
-
-}
-.form1 { 
+/* .form1 { 
 	position: absolute;
 	top: 40%;
 	left: 50%;
 	margin: -150px 0 0 -150px;
 	width:400px;
 	height:400px;
-}
+} */
 
-.form1 h3 { color: #fff; text-shadow: 0 0 1px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
+/* .form1 h3 { color: #fff; text-shadow: 0 0 1px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; } */
 
-select { 
+/* select { 
 	width: 100%; 
 	margin-bottom: 10px; 
 	background: rgba(0,0,0,0.3);
@@ -53,5 +39,14 @@ select {
 	-o-transition: box-shadow .5s ease;
 	-ms-transition: box-shadow .5s ease;
 	transition: box-shadow .5s ease;
-}
-select:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgba(255,255,255,0.2); }
+} */
+/* select:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgba(255,255,255,0.2); } */
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
