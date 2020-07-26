@@ -14,7 +14,10 @@
 
 <body style="background: #000;">
 <div class="form1">
-<h1> Welcome</h1>
+    <form action="./">
+        <input type="submit" value="Go to Home" />
+    </form>
+
 <h3>Loan apporval Prediction Form </h3>
 <!-- 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed','Credit_History','Property_Area', 'Income' -->
     <form action="{{ url_for('prediction')}}" method="post" id="loan_predict">
@@ -73,14 +76,11 @@
     <!-- <input type="submit" value="Predict">  -->
     <button type="submit" class="btn btn-primary btn-block btn-large">Predict </button>
     </form>
-</div>
 
-<div class="col-lg-6">
     <br><br>
     <!-- Result presentation goes here -->
     <h1> {{ prediction }}</h1> 
-        
-</div>
-
+</div> 
 </body>
 </html>
+

@@ -33,7 +33,7 @@ body {
 	height:400px;
 }
 
-.form1 h3 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
+.form1 h3 { color: #fff; text-shadow: 0 0 1px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
 
 select { 
 	width: 100%; 
