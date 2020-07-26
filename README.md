@@ -26,10 +26,11 @@ In recent years many researchers worked on loan approval prediction systems. Mac
 install Requests, 
 ```sh
 # heroku url
-heroku_url = 'https://titanic-flask-model.herokuapp.com' # change to your app name
+heroku_url = 'https://loan5.herokuapp.com/' # change to your app name
 
 # sample data
-data={'Gender':1, 'Married':1, 'Dependents':2, 'Education':0, 'Self_Employed':1,'Credit_History':1,'Property_Area':1, 'Income':1}
+data={'Gender':1, 'Married':1, 'Dependents':2, 'Education':0, 'Self_Employed':1,
+'Credit_History':1,'Property_Area':1, 'Income':1}
 
 data = json.dumps(data)
 ```
