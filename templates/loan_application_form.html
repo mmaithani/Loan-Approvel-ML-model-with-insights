@@ -1,10 +1,22 @@
 <!-- for rendering with flask this html file must be in "templates" folder -->
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Deployment Tutorial 1</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
 
+
+<body style="background: #000;">
+<div class="form1">
 <h1> Welcome</h1>
 <h3>Loan apporval Prediction Form </h3>
- 
 <!-- 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed','Credit_History','Property_Area', 'Income' -->
-<div>
     <form action="{{ url_for('prediction')}}" method="post" id="loan_predict">
         <label for="Gender">Gender</label>
         <select id="Gender" name="Gender">
@@ -58,7 +70,8 @@
             <option value ="0">High</option>
             </select>
         <br><br>
-    <input type="submit" value="Predict"> 
+    <!-- <input type="submit" value="Predict">  -->
+    <button type="submit" class="btn btn-primary btn-block btn-large">Predict </button>
     </form>
 </div>
 
@@ -68,3 +81,6 @@
     <h1> {{ prediction }}</h1> 
         
 </div>
+
+</body>
+</html>
