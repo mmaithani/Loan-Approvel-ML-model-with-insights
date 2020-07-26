@@ -9,6 +9,7 @@
 [![git](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/)
 
 <img align="right" width="300" src="/assets/loanui.png" alt="fork this repository" />
+
 ## ➀ Description
 
 Loan approval is a very important process for banking organizations. The system approved or reject the loan applications.
