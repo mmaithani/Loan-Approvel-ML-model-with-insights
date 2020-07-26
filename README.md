@@ -16,9 +16,11 @@ In recent years many researchers worked on loan approval prediction systems. Mac
 
 ## ➁ Key Features
 
+- Interface to predict <a href="https://loan5.herokuapp.com/">loan application approval </a>
 - data insights withhin <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/Loan%20application%20-approval%20insights%20.ipynb">Jupyter Notebook</a>
 - Trained <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/modell.pkl"> Model </a>
-- Public <a href="https://dashboard.heroku.com/apps/loan5/deploy/github"> api </a>
+- Public <a href="https://loan5.herokuapp.com/api"> api </a>
+- Heroku git URL https://git.heroku.com/loan5.git
 - multiple machine learning algorithms. 
 
 ## ➂ Public Api usage
@@ -26,7 +28,7 @@ In recent years many researchers worked on loan approval prediction systems. Mac
 install Requests, 
 ```sh
 # heroku url
-heroku_url = 'https://loan5.herokuapp.com/' # change to your app name
+heroku_url = 'https://loan5.herokuapp.com/api' # change to your app name
 
 # sample data
 data={'Gender':1, 'Married':1, 'Dependents':2, 'Education':0, 'Self_Employed':1,

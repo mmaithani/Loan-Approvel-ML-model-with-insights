@@ -1,0 +1,70 @@
+<!-- for rendering with flask this html file must be in "templates" folder -->
+
+<h1> Welcome</h1>
+<h3>Loan apporval Prediction Form </h3>
+ 
+<!-- 'Gender', 'Married', 'Dependents', 'Education', 'Self_Employed','Credit_History','Property_Area', 'Income' -->
+<div>
+    <form action="{{ url_for('prediction')}}" method="post" id="loan_predict">
+        <label for="Gender">Gender</label>
+        <select id="Gender" name="Gender">
+            <option value ="1">Male</option>
+            <option value ="0">Female</option>
+            </select>
+        <br><br>
+        <label for="Married">Married </label>
+        <select id="Married"name="Married">
+            <option value ="1">Yes</option>
+            <option value ="0">No</option>
+            </select>         
+        <br> <br>
+        <label for="depen">Dependents</label>
+        <select id="depen" name="depen">
+            <option value ="0">0</option>
+            <option value ="1">1</option>
+            <option value ="2">2</option>
+            <option value ="3">3+</option>
+            </select>
+        <br><br>
+        <label for="Education">Education </label>
+        <select id="Education" name="Education">
+            <option value ="0">Graduate</option>
+            <option value ="1">Not Graduate</option>
+            </select>
+        <br><br>
+        <label for="empl">Self Employed </label>
+        <select id="empl" name="empl">
+            <option value ="1">Yes</option>
+            <option value ="0">No</option>
+            </select>
+        <br><br>
+        <label for="credit">Credit History</label>
+        <select id="credit" name="credit">
+            <option value ="1">Yes</option>
+            <option value ="0">No</option>
+            </select>
+            <br><br>
+        <label for="Property">Property Area</label>
+        <select id="Property" name="Property">
+            <option value ="1">Rural</option>
+            <option value ="2">Semi- Urban</option>
+            <option value ="0">Urban</option>
+            </select>
+        <br><br>
+        <label for="Income">Income</label>
+        <select id="Income" name="Income">
+            <option value ="1">low</option>
+            <option value ="2">Medium</option>
+            <option value ="0">High</option>
+            </select>
+        <br><br>
+    <input type="submit" value="Predict"> 
+    </form>
+</div>
+
+<div class="col-lg-6">
+    <br><br>
+    <!-- Result presentation goes here -->
+    <h1> {{ prediction }}</h1> 
+        
+</div>
