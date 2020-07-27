@@ -39,7 +39,7 @@ def prediction():
         if int(result) == 0: 
             prediction = 'No, You are not elligible for loan :( '
         else: 
-            prediction = 'Hurray ! You Are elligible for loan, Get your startup money from bank :)'            
+            prediction = 'Hurray ! You Are elligible for loan :)'            
         return render_template("loan_application_form.html", prediction = prediction)
 
 # prediction function 
