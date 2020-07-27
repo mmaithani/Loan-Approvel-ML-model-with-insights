@@ -8,10 +8,8 @@
 
 [![git](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/)
 
-## ⓪ <img width="30" src="assets/pic.gif" alt="kitty" /> Interfacce 
-<img align="left" width="300" src="/assets/ui1.png" alt="ui" />
-
-<img align="left" width="300" src="/assets/ui.png" alt="fork this repository" />
+## ⓪ <img width="50" src="assets/pic.gif" alt="kitty" /> Interfacce 
+<img align="left" width="100%" src="/assets/ui.png" alt="fork this repository" />
 
 ## ➀ Description
 
