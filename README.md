@@ -11,9 +11,9 @@
 ## ⓪ Interfacce 
 
 <img align="left" width="100%" src="/assets/ui.png" alt="fork this repository" />
----
-<br><br/>
 
+---
+<br>
 ## ➀ Description
 
 Loan approval is a very important process for banking organizations. The system approved or reject the loan applications.
