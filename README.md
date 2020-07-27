@@ -11,8 +11,6 @@
 ## ⓪ Interfacce 
 
 <img align="left" width="100%" src="/assets/ui.png" alt="fork this repository" />
-
----
 <br>
 ## ➀ Description
 
