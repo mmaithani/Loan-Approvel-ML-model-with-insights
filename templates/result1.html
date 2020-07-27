@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <title>Loan prediction UI -Mohit Maithani</title>
+   <link rel = "icon" href = "{{url_for('static', filename='favicon.png')}}" 
+        type = "image/x-icon"> 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+<style>
+  .responsive {
+max-width: 10%;
+height: auto;
+}
+body,h1,h6 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url({{url_for('static', filename='j.gif')}});
+  min-height: 100%;
+  background-position: top;
+  background-size: cover;
+}
+</style>
+
+<body>
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="./">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="https://github.com/login?return_to=%2Fmmaithani">Github</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://linkedin.com/in/mohitmaithani">Linkedin</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://twitter.com/xaret_">Twitter</a>
+      </li>  
+       <li class="nav-item">
+          <a class="nav-link" href="https://mmaithani.github.io/#contact">Contact</a>
+        </li>  
+        <li class="nav-item">
+          <a class="nav-link" href="https://mmaithani.github.io">About Me</a>
+        </li>
+    </ul>
+  </div>  
+</nav>
+  <!-- Load font awesome icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    <a href="https://github.com/mmaithani">
+    <img src="{{url_for('static', filename='sunset.gif')}}" class="responsive"align="left">Follow Mohit Maithani  </a>
+  </div>
+  <div class="w3-display-middle">
+    <h6 class="w3-jumbo w3-animate-top">{{prediction}}</h6>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <br><br>
+         <a href="./"><button class="btn btn-primary btn-block btn-large"> <- Go back* </button></a>
+         <br><br><br> 
+    <p class="w3-large w3-center">Copyright © <a href="https://mmaithani.github.io">Mohit Maithani</a></p>
+
+  </div>
+  <div class="w3-display-bottomleft w3-padding-large">
+    Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+  </div>
+</div>
+
+</body>
+</html>

@@ -47,7 +47,7 @@ background: #393C3E;
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="https://github.com/login?return_to=%2Fasvetlov">Github</a>
+        <a class="nav-link" href="https://github.com/login?return_to=%2Fmmaithani">Github</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://linkedin.com/in/mohitmaithani">Linkedin</a>
@@ -70,67 +70,8 @@ background: #393C3E;
 
     <div class="col-sm-8">
       <h2>Loan approval Prediction Form </h2>
-      <p>it's a very important process for banking organizations. The system approved or reject the loan applications.</p>
-    
-    <div class="form1">
-    <br>
-    <form class="frm" action="{{ url_for('prediction')}}" method="post" id="loan_predict">
-        <label for="Gender">Gender</label>
-        <select id="Gender" name="Gender">
-            <option value ="1">Male</option>
-            <option value ="0">Female</option>
-            </select>
-        <br><br>
-        <label for="Married">Married </label>
-        <select id="Married"name="Married">
-            <option value ="1">Yes</option>
-            <option value ="0">No</option>
-            </select>         
-        <br> <br>
-        <label for="depen">Dependents</label>
-        <select id="depen" name="depen">
-            <option value ="0">0</option>
-            <option value ="1">1</option>
-            <option value ="2">2</option>
-            <option value ="3">3+</option>
-            </select>
-        <br><br>
-        <label for="Education">Education </label>
-        <select id="Education" name="Education">
-            <option value ="0">Graduate</option>
-            <option value ="1">Not Graduate</option>
-            </select>
-        <br><br>
-        <label for="empl">Self Employed </label>
-        <select id="empl" name="empl">
-            <option value ="1">Yes</option>
-            <option value ="0">No</option>
-            </select>
-        <br><br>
-        <label for="credit">Credit History</label>
-        <select id="credit" name="credit">
-            <option value ="1">Yes</option>
-            <option value ="0">No</option>
-            </select>
-            <br><br>
-        <label for="Property">Property Area</label>
-        <select id="Property" name="Property">
-            <option value ="1">Rural</option>
-            <option value ="2">Semi- Urban</option>
-            <option value ="0">Urban</option>
-            </select>
-        <br><br>
-        <label for="Income">Income</label>
-        <select id="Income" name="Income">
-            <option value ="1">low</option>
-            <option value ="2">Medium</option>
-            <option value ="0">High</option>
-            </select>
-        <br><br>
-
     <!-- <button>Predict</button>
     <p>{{ prediction }}</p> -->
-    <a href="./"> <img src="{{url_for('static', filename='pikachu.gif')}}" class="responsive"align="middle"></a>
     <button type="submit" class="btn btn-primary btn-block btn-large">Predict </button>
     <h1> {{ prediction }}</h1>     
 </form>

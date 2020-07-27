@@ -37,10 +37,10 @@ def prediction():
         result = ValuePredictor(to_predict_list)    
         print(result)     
         if int(result) == 0: 
-            prediction = 'No, You are not elligible for loan :( '
+            prediction = 'No, You are not elligible for loan :('
         else: 
-            prediction = 'Hurray ! You Are elligible for loan :)'            
-        return render_template("loan_application_form.html", prediction = prediction)
+            prediction = 'You Are elligible for loan'            
+        return render_template("result1.html", prediction = prediction)
 
 # prediction function 
 def ValuePredictor(to_predict_list): 
