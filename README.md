@@ -60,8 +60,7 @@ Now people can access API endpoint with the Heroku URL and use this model to mak
 
 ---
 ##  ➄ Credit
- <img width="70" src="assets/pic.gif" alt="kitty" />
-[<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)    [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)    [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/xaret_)    **[Mohit Maithani](https://mmaithani.github.io)**    |  Tech enthusiast (Data Science)
+ <img width="70" src="assets/pic.gif" alt="kitty" />[<img src="https://github.com/favicon.ico" width="20"> ](https://github.com/mmaithani)    [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)    [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/xaret_)    **[Mohit Maithani](https://mmaithani.github.io)**    |  Tech enthusiast (Data Science)
 
 - public api deployment 
 [<img src="https://twitter.com/favicon.ico" width="20">](https://twitter.com/elizabethets)
