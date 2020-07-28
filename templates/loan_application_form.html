@@ -16,23 +16,17 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 
 
-<script >
-   $("#login-button").click(function(event){
-     event.preventDefault();
-   
-   $('form').fadeOut(500);
-   $('.wrapper').addClass('form-success');
-});
-</script>
+
 <style>
   
  .footer {
-  position: fixed;
+  width: auto;
+  position: relative;
   right: 0;
   bottom: 0;
   left: 0;
   padding: 1rem;
-  background-color: #efefef;
+  background-color: transparent;
   text-align: center;
 } 
 .responsive {
@@ -93,9 +87,10 @@ background: linear-gradient(to bottom right, #50a3a2 0%, #53e3a6 100%);
 }
 .container{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); 
-  max-width: 450px;
+  max-width: 340px;
   margin: 0 auto;
-  padding: 10px 0;
+  margin-top: 50px;
+  padding: 20px 0;
   position: middle;
   /*height: 100%;*/
   text-align: center;
@@ -191,7 +186,7 @@ color: #004d40;
 <div class="container">
       <a href="./"> <img src="{{url_for('static', filename='sign (softer).png')}}" align="middle"alt="sign" class="sign" /></a> 
 
-<nav style="background-color: rgba(32, 153, 100, 0.2);" class="navbar navbar-light light-blue lighten-4">
+<nav style="background-color: rgba(32, 153, 100, 0.3);" class="navbar navbar-light light-blue lighten-4">
 
   <!-- Navbar brand -->
   <a style="position: middle;padding-left: 40px;" class="navbar-brand" href="./">Home</a>
@@ -209,13 +204,13 @@ color: #004d40;
       <!-- <li class="nav-item active">
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
- -->      <li class="nav-item">
+ -->      <li class="nav-item active">
         <a class="nav-link" href="https://github.com/mmaithani">Github</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item active">
         <a class="nav-link" href="https://linkedin.com/in/mohitmaithani">Linkedin</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item active">
         <a class="nav-link" href="https://twitter.com/xaret_">Twitter</a>
       </li>  
        <li class="nav-item active">
@@ -304,16 +299,18 @@ color: #004d40;
     <a href="./"> <img src="{{url_for('static', filename='pikachu.gif')}}" class="responsive"align="middle"></a>
     <br>
     <!-- <button id="predict_button" type="submit"> Predict </button> -->
-    <button class="button" style="vertical-align:middle"><span>Predict </span></button>
+    <button id="login-button"class="button" style="vertical-align:middle"><span>Predict </span></button>
 </form>
+
 </div>
     <!-- </div> -->
   <!-- </div> -->
 
 </div>
-    <div class="footer">Copyright © <a href="https://mmaithani.github.io">Mohit <strong>Maithani</strong></a>
+ <div class="footer">Copyright © <a href="https://mmaithani.github.io">Mohit <strong>Maithani</strong></a>
     <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by Mohit</div>  
 
+   
 </body>
 
 </html>
