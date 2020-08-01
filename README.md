@@ -167,13 +167,6 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ---
 
-### Next Version
-
-<img align="left" width="40" src="assets/giphy.gif" alt="guy" />
-will add interface
-
-where i can use the public prediction api
-
 ### Attribution
 
 These contribution guidelines have been learned from [this good-Contributing.md-template](https://gist.github.com/PurpleBooth/b24679402957c63ec426).
