@@ -6,7 +6,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/xaret_?style=social)](https://twitter.com/xaret_)
 [![github](https://img.shields.io/github/followers/mmaithani?label=Follow&style=social)](https://github.com/login?return_to=%2Fmmaithani)
 
-[![git](https://img.shields.io/github/downloads/mmaithani/Loan-Approvel-ML-model-with-insights/total?style=for-the-badge)](https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/)
 
 ## ⓪ Interfacce 
 
