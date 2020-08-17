@@ -24,7 +24,7 @@ In recent years many researchers worked on loan approval prediction systems. Mac
 - data insights withhin <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/Loan%20application%20-approval%20insights%20.ipynb">Jupyter Notebook</a>
 - Trained <a href="https://github.com/mmaithani/Loan-Approvel-ML-model-with-insights/blob/master/modell.pkl"> Model </a>
 - Public <a href="https://loan5.herokuapp.com/api"> api </a>
-- Heroku git URL https://git.heroku.com/loan5.git
+- Heroku git <a href="https://git.heroku.com/loan5.git"> link </a> 
 - multiple machine learning algorithms. 
 
 ## ➂ Public Api usage
